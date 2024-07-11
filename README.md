@@ -14,7 +14,7 @@ In this project, I scrape football match data from the English Premier League.
 You can find the code for this project here.
 
 File overview:
-- `Web Scraping.ipynb` - a jupyter notebook that contains all of the code.
+- `Web_Scraping.ipynb` - a jupyter notebook that contains all of the code.
 
 
 
