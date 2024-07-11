@@ -1,6 +1,6 @@
 # Web Scraping Football Matches From the EPL With Python
 
-In this project, I scrape football match data from the English Premier League.  
+In this project, I scrape football match data from the English Premier League Website
 
 
 
